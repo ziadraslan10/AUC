@@ -4,19 +4,19 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import SecondNavbar from "../../Components/Second-Navbar/Second-Navbar";
-import img0 from "../../assets/A1C/0.PNG";
-import img1 from "../../assets/A1C/1.JPG";
-import img2 from "../../assets/A1C/2.JPG";
-import img3 from "../../assets/A1C/3.JPG";
-import img4 from "../../assets/A1C/4.JPG";
-import img5 from "../../assets/A1C/5.JPG";
-import img6 from "../../assets/A1C/6.JPG";
-import img7 from "../../assets/A1C/7.JPG";
-import img8 from "../../assets/A1C/8.JPG";
-import img9 from "../../assets/A1C/9.JPG";
-import img10 from "../../assets/A1C/10.JPG";
-import img11 from "../../assets/A1C/11.JPG";
-import img12 from "../../assets/A1C/12.JPG";
+import img0 from "../../assets/A1C/p0.png";
+import img1 from "../../assets/A1C/p1.JPG";
+import img2 from "../../assets/A1C/p2.JPG";
+import img3 from "../../assets/A1C/p3.JPG";
+import img4 from "../../assets/A1C/p4.JPG";
+import img5 from "../../assets/A1C/p5.JPG";
+import img6 from "../../assets/A1C/p6.JPG";
+import img7 from "../../assets/A1C/p7.JPG";
+import img8 from "../../assets/A1C/p8.JPG";
+import img9 from "../../assets/A1C/p9.JPG";
+import img10 from "../../assets/A1C/p10.JPG";
+import img11 from "../../assets/A1C/p11.JPG";
+import img12 from "../../assets/A1C/p12.JPG";
 
 export default function A1B() {
   useEffect(() => {
